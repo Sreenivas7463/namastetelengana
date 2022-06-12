@@ -4,7 +4,7 @@ module.exports = {
     defaultLocale: 'en',
   },
   images: {
-        //enter the domain or subdomain where you have WordPress installed 
+        //enter the domain or subdomain where you have WordPress installed.
       domains: ['ntnews.com'],
     },
     
